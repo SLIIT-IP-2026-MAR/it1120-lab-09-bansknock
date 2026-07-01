@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IT26101198Lab9Q1 {
+public class IT26300113Lab9Q1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
